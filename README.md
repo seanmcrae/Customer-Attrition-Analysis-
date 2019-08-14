@@ -1,5 +1,5 @@
 # Customer-Attrition-Analysis-
-Turnover rate analyzed for Customer Success management 
+Turnover rate analyzed for Customer Success, Cohort and Metrics 
 
 Customer Attrition
 Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers.
