@@ -1,0 +1,254 @@
+Growing any business is difficult, but scaling a software as a service (SaaS) company is especially hard. 
+
+Most SaaS companies struggle to achieve predictable revenue growth, and even public SaaS companies struggle to achieve profitability.
+
+To make a SaaS company successful, you can’t just change your software delivery model to the web and expect it all to work. You must make thoughtful, data-driven decisions when it comes to your marketing, sales, and customer success operations.
+
+To make data-driven decisions, you have to track the right SaaS metrics and KPIs.
+
+Why Is Data So Important for SaaS Businesses?
+
+The SaaS economic model is unique.
+
+In comparison to the enterprise software firms of yesteryear that could rely on large, upfront fees to get a quick payback, the SaaS business model relies on small amounts of recurring revenues. 
+
+And unlike a services businesses where you can pay for your new equipment after the first few jobs—or a consulting business with no overhead that can close big upfront contracts from the get-go—revenue in a SaaS business is built one small sale at a time, paid in small increments.
+
+This makes SaaS difficult in terms of marketing, sales, and customer success.
+
+SaaS marketing is difficult because you need to find ways to find and attract a high volume of quality leads, and then find ways to increase lead volume for years to come—all on a small budget.
+
+SaaS sales is also difficult. You need to find ways to make your salespeople more efficient so they can close more deals more quickly. But every investment you make in productivity increases your payback period even further. And often, you can’t afford to hire experienced salespeople to help you figure it out.
+
+SaaS customer success is difficult because it’s just another upfront expense you must justify within an already limited budget. But it’s critical because you might not get any payback on your marketing, sales, or customer service if customers cancel before break-even occurs.
+
+But even though scaling a SaaS company is hard, it’s not impossible. Fortunately for all of us, a few successful SaaS pioneers have shared parts of their playbooks: 
+
+Companies like HubSpot and Marketo invented and then shared their modern marketing and sales playbooks—as well as their financials as public companies—leaving little doubt of the effectiveness of those models.
+Zendesk certainly eats its own cooking, showing companies how to manage customer success. 
+Trailblazer Salesforce has shown us what it takes to keep growing and growing. 
+Even relative newcomers like Buffer are leading the way by transparently exposing their inner-workings, even during their adolescent SaaS phase. 
+We have investors like David Skok and Jason Lemkin who have seen the playbook from inside many a SaaS boardroom and shared those strategies in great detail. 
+And that’s not to mention the services companies—like inside sales consulting firm The Bridge Group and inbound marketing agency Kuno Kreative—that have made a name for themselves by helping SaaS companies scale and sharing their best practices.
+Together, these companies, investors, and consultants have created and named a set of SaaS metrics and KPIs that every SaaS employee would be wise to understand—and every SaaS executive should monitor closely.
+
+The 18 Most Important SaaS Metrics and KPIs
+
+Since we’re a data-driven SaaS company—and one that also helps other companies monitor their most important performance metrics—we’ve compiled a list of the 18 SaaS metrics and KPIs all companies should track.
+
+Monthly Unique Visitors
+Signups
+Product-Qualified Leads (PQLs)
+Qualified Lead Velocity Rate (LVR)
+Organic vs. Paid Traffic ROI
+Viral Coefficient
+Conversion Rate to Customer
+Average Revenue Per Account (ARPA)
+Customer Acquisition Cost (CAC)
+Monthly Recurring Revenue (MRR)
+Number of Support Tickets Created
+Average First Response Time
+Average Resolution Time
+Net Promoter Score (NPS)
+Number of Active Users
+Customer Retention Rate
+Churn Rate
+Customer Lifetime Value (LTV)
+1. Monthly Unique Visitors
+
+Monthly unique visitors is a count of the number of unique individuals who visited your website in a given month. If someone visits your site multiple times, he/she will only be counted as one unique visitor (assuming the same device and browser is used for each visit and the visitor doesn’t clear his/her cookies between visits). 
+
+While this metric alone doesn’t provide many insights, it’s a great reflection of the size of your audience, and it’s a good measure of the impact of your overall marketing efforts. Plus, by measuring the volume of unique visitors from each source, you can also measure the effects of marketing on different channels. 
+
+And while growth in unique monthly visitors is a great gauge of the effectiveness of your top-of-funnel marketing, don’t forget to look at engagement metrics like average time on site, average pages visited, repeat visits, number of comments, downloaded content, email subscriptions, etc. 
+
+These metrics will tell you about the quality of your traffic, which is just as important as quantity.
+
+Use tools like Google Analytics or Adobe Analytics to measure unique visitors. Since Google Analytics is free, most SaaS companies start there. 
+
+You can also grab the free Google Analytics Acquisition Snapshot dashboard below to quickly view how your marketing campaigns are performing across all of your target channels.
+
+google analytics acquisition snapshot dashboard
+2. Signups
+
+Not every SaaS product offers a free trial or a self-service option. Many force you to talk to a salesperson before trialing the software. But self-service is perhaps the best way to lower the cost of customer acquisition.
+
+For self-service SaaS companies, signups is probably the most important metric.
+
+Whether you offer a free trial or a freemium plan, marketing’s goal should be to drive signups.
+
+In an ideal world, the user can learn the software on his/her own, begin using it regularly, and find enough value to convert to a paying customer.
+
+There are many ways to increase signups, including writing helpful, educational content for both prospective and existing users and optimizing your website’s conversion rate.
+
+Use tools like Google Analytics, Adobe Analytics, HubSpot, or Mixpanel to measure signups. HubSpot users can also grab the free HubSpot Sources Report dashboard below to track how your marketing efforts on every channel are contributing to each stage of your funnel.
+
+hubspot sources report dashboard
+3. Product-Qualified Leads (PQLs)
+
+Tomasz Tunguz, a venture capitalist at Redpoint Ventures, defines PQLs as “potential customers who have used a product and reached pre-defined triggers that signify a strong likelihood to become a paying customer.”
+
+For freemium business models, a PQL is the new MQL (or marketing-qualified lead). It helps SaaS businesses pre-qualify potential customers based on their product usage.
+
+At Databox, PQLs are one of the most important metrics we track. Our free product allows users to connect three data sources for free, add up to three users, and access fewer features than our paid products. 
+
+We’ve defined PQL criteria for our business based on a user’s interactions with the product: number of features used, time spent in the product, and frequency of usage. Our developers then run experiments to increase our PQL volume.
+
+We determine whether a user meets our PQL thresholds using Intercom. 
+
+4. Qualified Lead Velocity Rate (LVR)
+
+Once you’ve documented your PQL (or MQL) definition, you need to calculate how many new PQLs you need each month.
+
+Knowing your qualified-lead-to-customer conversion ratio, work backward from your revenue target to calculate the volume of leads needed.
+
+All would be great in the world if you could snap your fingers and start generating the lead volume you need to exceed your revenue target. But since that’s not realistic, plan to increase your lead volume every month so that you’re comfortably hitting your annual revenue target by the end of the year.
+
+Why should you obsess over LVR? Since it’s just a matter of time before some percentage of your qualified leads convert, LVR is a great indicator of future sales attainment.
+
+To calculate LVR, use the following formula:
+
+how to calculate LVR
+For example, imagine you created 1,100 qualified leads this month and 1,000 qualified leads last month. You are growing LVR at 10% month-over-month. 
+
+Assuming the quality of your leads stays the same, use your average sales cycle to forecast new sales revenue in future months.
+
+5. Organic vs. Paid Traffic ROI
+
+Organic traffic metrics include visitors who arrive from a non-paid (organic) listing in the search results. Paid traffic metrics, on the other hand, include visitors who arrived from paid search results like pay-per-click (PPC) ads.
+
+Where you invest your marketing dollars should depend on how quickly you need results and how much money you have: 
+
+If you need immediate results and have the budget for it, paid search is the right place to focus. 
+If you don’t need immediate results, focus much of your time and budget on content creation to steadily grow organic traffic over time.
+Of course, if you intend to be in business in the future, it’s always smart to invest in growing your organic traffic regardless of where you focus your efforts up front.
+
+Related: SEO vs. PPC: Which Channel Generates More Sales?
+
+If you can do both, do both. Don’t waste money, though. Make sure you’re converting your traffic (especially your paid traffic) into revenue.
+
+No matter where you invest, it’s essential to measure the volume of traffic, leads, and customers you are generating from your organic and paid traffic channels. 
+
+To track the performance of your paid and organic channels, you’ll need a few tools to get a full picture: 
+
+You’ll need an analytics tool like Google Analytics or HubSpot to measure your traffic, lead, and customer acquisition volume by each channel.
+You’ll need an SEO tool like Google Search Console, Ahrefs, SEMrush, or Moz to see what keywords you’re ranking for in organic search and what positions you’re ranking in.
+You should also connect with your ad platform (Google Ads or Bing Ads) to see your paid search performance more granularly.
+If you don’t want to have to pull metrics from multiple tools and enter them all into a spreadsheet to get a complete picture of the ROI of your organic and paid search efforts, Databox can help. 
+
+Connect multiple data sources from 70+ integrated tools—including Google Ads, Bing Ads, Google Analytics, Google Search Console, Ahrefs, SEMrush, and more—to get a centralized view of all of your most important KPIs. Grab the free Google Ads dashboard template below to get started.
+
+google ads dashboard
+6. Viral Coefficient
+
+Word-of-mouth marketing cannot be beaten. When your existing customers help you acquire new customers, growth can be exponential.
+
+Perfected by consumer internet companies as early as Hotmail (before it was bought by Microsoft), Airbnb, and Gmail—as well as newer internet software darlings like Dropbox, Slack, and every successful social network ever—virality is every SaaS startup’s dream.
+
+To measure virality, calculate your viral coefficient. The formula is simple:
+
+how to calculate viral coefficient
+Invites = number of invitations the average user sends
+Conversion percent = the percentage of invitees that convert to customers
+As an example, a virality coefficient of 1.5 means that every signup brings 0.5 additional signups, so for 100 signups, you actually get 150. 
+
+The greater your viral coefficient, the faster your company will grow.
+
+To model your viral growth rate, download this calculator from David Skok’s blog.
+
+7. Conversion Rate to Customer
+
+Depending on how you’ve defined your marketing and sales process, you might have different definitions for different types of leads. You might have: 
+
+subscribers who simply subscribed to your blog
+leads that filled out a form on your website to download an ebook
+marketing-qualified leads who fit a strict definition of “fit” and “interest” based on how they’ve interacted with your site and what you know about them and their companies
+product-qualified leads who are using parts of your free product 
+You might even use all of these definitions.
+
+At Databox, we pay close attention to the number of PQLs who convert to customers, but we also measure the overall number of new users who convert to customers, too. As an example, we measure our PQL to customer conversion rate as the percentage of PQLs that end up converting to paid customers. 
+
+Here’s our simple formula:
+
+how to calculate conversion rate to customer
+Whatever lead-to-customer conversion rate you measure, make sure you define different lead types and consistently calculate your conversion rates.
+
+Your conversion rate is a benchmark for how good of a job you are doing at turning leads into customers. By increasing your conversion rate to customer, you’re directly increasing your revenue.
+
+To measure your conversion rates, many companies use a marketing automation platform like HubSpot or Marketo and/or a CRM like Salesforce or Pipedrive. We’re pulling PQL volume from Intercom and sales data from Stripe, then doing the calculation inside of Databox.
+
+If you use HubSpot’s Marketing and CRM products, grab the free Pipeline Performance dashboard below to get a quick view of your visitor-to-contact, contact-to-MQL, contact-to-SQL, and contact-to-customer rates.
+
+hubspot pipeline performance dashboard
+8. Average Revenue Per Account (ARPA)
+
+Average revenue per account (ARPA), also known as average revenue per user/unit (ARPU), is a measure of the revenue generated per account (usually per month as most subscription businesses operate monthly). But you can always calculate it yearly or quarterly according to your plans and billing options.
+
+A simple way to calculate ARPA is to calculate the total MRR you have at the end of the month and divide it by the number of active customers at that time, like so:
+
+how to calculate ARPA
+A good practice is measuring ARPA for new and existing customers separately to have a sense of how your ARPA is evolving—or if new customers behave differently than existing ones. Some companies also calculate this as average sales price (ASP) to separate the impact of upselling from the price at the initial sale.
+
+To track your ARPA, you need to rely on your billing or accounting system. Many SaaS companies use Stripe to manage billing, but you may also need to pull data from PayPal or QuickBooks if you are using those systems. 
+
+If you’re using multiple payment methods and have not consolidated your data into a centralized accounting system, you might need to pull from multiple systems and add the numbers together.
+
+9. Customer Acquisition Cost (CAC)
+
+David Skok calls CAC the startup killer because a very large number of startups have failed (even those that solved the product/market fit problem) because they did not find a way to acquire customers at a low enough cost. 
+
+Understanding how much it costs to acquire new customers—and identifying the most profitable marketing and sales channels—is the key to profitably scaling a SaaS business.
+
+To calculate it, divide your total sales and marketing costs by the number of deals closed within a given period. If you’re following an inside, channel, or field sales model, make sure to include salaries. If your product sells itself without salespeople, you can calculate your costs without the headcount costs.
+
+Follow this formula:
+
+how to calculate CAC
+A viable business model for a SaaS company comes down to balancing two variables: 
+
+CAC
+the ability to monetize those customers (or LTV, which stands for lifetime value of a customer)
+In an unbalanced business model, CAC exceeds LTV, whereas in a balanced model, CAC is significantly smaller than LTV.
+
+Skok gives us two rough rules of thumb regarding CAC:
+
+Your LTV should be about three times your CAC for a viable SaaS company—or any other form of recurring revenue model.
+You should recover your CAC in less than 12 months, otherwise, your business will require too much capital to grow.
+Per Skok, CAC changes drastically based on the complexity of your selling model. Freemium or self-service business models have CACs between $0 and $200. Light- and high-touch inside sales inflate CACs to between $300 and $8,000. With a field sales team, your CAC can go from $20,000 to even up to $200,000.
+
+To reduce CAC, try A/B testing to improve conversion rates, minimize the level of touch required to complete a sale, or make your product easier to use more quickly via an improved trial process.
+
+To calculate CAC, you’ll need to aggregate all of your costs from something like QuickBooks or by manually tracking in a spreadsheet. Also, you’ll need to track the number of new paid users you acquire during each period.
+
+10. Monthly Recurring Revenue (MRR)
+
+Recurring revenue is the lifeblood of any SaaS business. Your MRR is a single and consistent number to track no matter how many pricing plans and billing cycles you have.
+
+But how do you calculate MRR?
+
+The easiest way is to summarize all the revenue you receive from your paying customers per month. Another way is to multiply the total number of paying customers by the average revenue per user (ARPU).
+
+For example, say you have five customers. Three of them are paying $100/month, one is paying $200/month and one is paying $960/year. MRR in this example is $580: (3 x $100) + $200 + $80. When divided by the number of customers (5), you get the ARPU ($116 in this case).
+
+While that calculation sounds simple (and it is), SaaS companies need to calculate multiple MRR numbers, depending on the complexity of their businesses. For example, all SaaS companies should measure new MRR and churned MRR to calculate net MRR. 
+
+If you’ve built a pricing and packaging strategy that enables you to generate additional revenue from existing customers, you should also calculate add-on MRR and factor that into net MRR. 
+
+Here’s a list of different MRR numbers you should calculate:
+
+New MRR added in a given month by only new customers
+Add-on MRR (or expansion MRR) from existing customers (buying additional product features, upgrading the account, adding new users, etc.)
+Churn MRR: the monthly revenue lost from cancellations and downgrades
+Net new MRR (or total new MRR): the total recurring revenue at the end of each given month by including add-on and churn
+how to calculate net new MRR
+If you measure a higher churn MRR than your new MRR, you are likely losing as many customers as you are gaining each month. That is a recipe for going out of business fast.
+
+When your add-on MRR is higher than your churn MRR, that means you’ve figured out how to have positive retention (or negative churn). Enough of your existing customers are upgrading, countering the revenue lost from the customers who are canceling. In this scenario, the average new customer you acquire will grow your revenue.
+
+Money companies focus more on measuring annual recurring revenue (ARR). As you’d imagine, ARR is the annual value of recurring revenue and is the monthly recurring rate multiplied by 12. 
+
+Once you achieve positive retention rates, ARR gives you an estimation of how much revenue you’ll generate in a year, not including customers you’ll likely book during the remainder of the year.
+
+Stripe users can simplify the process of tracking MRR by grabbing the free Stripe MRR and Churn dashboard below.
+
+stripe MRR and churn dashboard
